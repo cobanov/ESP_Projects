@@ -9,7 +9,7 @@
 
 ## Ampy
 List all files in the board
-``ampy --port com5 ls`
+`ampy --port com5 ls`
 
 Delete all files 
 `ampy --port com5 rm boot.py`
