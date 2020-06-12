@@ -20,3 +20,5 @@ Put files to board
 
 Then reset board and go to adress
 http://192.168.1.24/
+
+ESP32 Projesi
